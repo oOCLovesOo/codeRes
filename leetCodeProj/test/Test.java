@@ -1,4 +1,4 @@
-package leetCodeProj.test;
+package codeRes.leetCodeProj.test;
 
 import java.lang.reflect.Method;
 import java.util.ArrayList;

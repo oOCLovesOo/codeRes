@@ -1,4 +1,4 @@
-package leetCodeProj.normal;
+package codeRes.leetCodeProj.normal;
 
 public class SurroundedRegions130 {
 
@@ -37,7 +37,7 @@ public class SurroundedRegions130 {
 	}
 
 	/**
-	 * ÒÔÒ»¸ö½Úµã¿ªÊ¼£¬ÍùÉÏÏÂ×óÓÒËÄ¸ö·½Ïò¿ªÊ¼ÏÂÌ½
+	 * ï¿½ï¿½Ò»ï¿½ï¿½ï¿½Úµã¿ªÊ¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½ï¿½ï¿½ï¿½Ê¼ï¿½ï¿½Ì½
 	 * 
 	 */
 	public static void DropIn(int x, int y, char map[][], char[][] board) {
@@ -47,7 +47,7 @@ public class SurroundedRegions130 {
 
 		map[y][x] = 'O';
 
-		// ÉÏ£¬ÓÒ£¬ÏÂ£¬×ó
+		// ï¿½Ï£ï¿½ï¿½Ò£ï¿½ï¿½Â£ï¿½ï¿½ï¿½
 		if (y - 1 >= 0) {
 			DropIn(x, y - 1, map, board);
 		}

@@ -1,6 +1,6 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
-import leetCodeProj.util.TreeNode;
+import codeRes.leetCodeProj.util.TreeNode;
 
 public class FirstCommonAncestorLCCI_04_08 {
 	public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {

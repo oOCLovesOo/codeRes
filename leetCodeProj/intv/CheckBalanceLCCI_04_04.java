@@ -1,6 +1,6 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
-import leetCodeProj.util.TreeNode;
+import codeRes.leetCodeProj.util.TreeNode;
 
 public class CheckBalanceLCCI_04_04 {
 	Boolean isBalance = true;

@@ -1,9 +1,9 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import leetCodeProj.util.TreeNode;
+import codeRes.leetCodeProj.util.TreeNode;
 
 public class BSTSequencesLCCI_04_09 {
     public List<List<Integer>> BSTSequences(TreeNode root) {

@@ -1,4 +1,4 @@
-package leetCodeProj.test.bean;
+package codeRes.leetCodeProj.test.bean;
 
 public class ExcelLine {
 	public String line1;

@@ -1,9 +1,9 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import leetCodeProj.util.ListNode;
+import codeRes.leetCodeProj.util.ListNode;
 
 public class IntersectionOfTwoLinkedListsLCCI_02_07 {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

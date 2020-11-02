@@ -1,4 +1,4 @@
-package leetCodeProj.test;
+package codeRes.leetCodeProj.test;
 
 import java.util.ArrayList;
 import java.util.List;

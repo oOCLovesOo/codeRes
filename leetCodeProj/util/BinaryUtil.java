@@ -1,4 +1,4 @@
-package leetCodeProj.util;
+package codeRes.leetCodeProj.util;
 
 public class BinaryUtil {
 

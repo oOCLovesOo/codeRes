@@ -1,14 +1,12 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 import java.util.ArrayList;
 import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 
-import org.w3c.dom.ls.LSInput;
-
-import leetCodeProj.util.ListNode;
-import leetCodeProj.util.TreeNode;
+import codeRes.leetCodeProj.util.ListNode;
+import codeRes.leetCodeProj.util.TreeNode;
 
 public class ListOfDepthLCCI_04_03 {
     public ListNode[] listOfDepth(TreeNode tree) {

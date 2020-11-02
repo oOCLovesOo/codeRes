@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class MagicIndexLCCI_08_03 {
     public int findMagicIndex(int[] nums) {

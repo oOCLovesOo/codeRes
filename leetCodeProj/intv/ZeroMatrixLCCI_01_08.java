@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class ZeroMatrixLCCI_01_08 {
     public void setZeroes(int[][] matrix) {

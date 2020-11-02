@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class OneAwayLCCI_01_05 {
 	public boolean oneEditAway(String first, String second) {

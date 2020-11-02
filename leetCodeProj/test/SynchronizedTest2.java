@@ -1,4 +1,4 @@
-package leetCodeProj.test;
+package codeRes.leetCodeProj.test;
 
 public class SynchronizedTest2 {
     public synchronized void method1() {

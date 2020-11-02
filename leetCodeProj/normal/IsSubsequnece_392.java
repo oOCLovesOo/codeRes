@@ -1,4 +1,4 @@
-package leetCodeProj.normal;
+package codeRes.leetCodeProj.normal;
 
 public class IsSubsequnece_392 {
 	public boolean isSubsequence(String s,String t) {

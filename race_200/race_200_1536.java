@@ -1,4 +1,4 @@
-package race.race_200;
+package codeRes.race_200;
 
 public class race_200_1536 {
     public int minSwaps(int[][] grid) {

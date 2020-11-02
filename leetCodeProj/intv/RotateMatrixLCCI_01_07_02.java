@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class RotateMatrixLCCI_01_07_02 {
     public void rotate(int[][] matrix) {

@@ -1,6 +1,5 @@
-package leetCodeProj.test;
+package codeRes.leetCodeProj.test;
 
-import java.awt.FontFormatException;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -14,7 +13,7 @@ import java.util.Map;
 public class ReplaceString {
 	
 	public static void main(String[] args) throws IOException {
-		//¶ÁÎÄ¼þ
+		//ï¿½ï¿½ï¿½Ä¼ï¿½
 //		StringBuffer buffer = new StringBuffer();
 //		BufferedReader bf = new BufferedReader(new FileReader("D:\\file.txt"));
 //		String s = null;
@@ -36,7 +35,7 @@ public class ReplaceString {
 //		
 //		System.out.println(str.substring(0,str.length()-2));
 		
-		//¶ÁÎÄ¼þ
+		//ï¿½ï¿½ï¿½Ä¼ï¿½
 		StringBuffer buffer = new StringBuffer();
 		BufferedReader bf = new BufferedReader(new FileReader("D:\\file.txt"));
 		List<String> lineStr = new ArrayList<String>();
@@ -55,26 +54,26 @@ public class ReplaceString {
     public static String saleChannelFormat(String saleChannel){
         List<String> result = Arrays.asList(saleChannel.split(","));
         String resString = "";
-        boolean otherIsAdd = false;//Ìí¼Ó¹ýÆäËû£¬·ÀÖ¹Ìí¼Ó¶à¸öÆäËû
+        boolean otherIsAdd = false;//ï¿½ï¿½Ó¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö¹ï¿½ï¿½Ó¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         int index = 0;
         Map<String,String> map = new HashMap<String,String>();
         for (String eveStr : result) {
             String nowAdd ="";
             switch (eveStr) {
-                case "1"://ÒøÐÐ¹ñÌ¨
-                    nowAdd="01";//¹ñÃæ
+                case "1"://ï¿½ï¿½ï¿½Ð¹ï¿½Ì¨
+                    nowAdd="01";//ï¿½ï¿½ï¿½ï¿½
                     break;
-                case "2"://¸öÈËÍøÒø
-                    nowAdd="02";//ÍøÒø
+                case "2"://ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+                    nowAdd="02";//ï¿½ï¿½ï¿½ï¿½
                     break;
-                case "5"://ÆóÒµÍøÒø
-                    nowAdd="02";//ÍøÒø
+                case "5"://ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½
+                    nowAdd="02";//ï¿½ï¿½ï¿½ï¿½
                     break;
-                case "7"://ÊÖ»ú¿Í»§¶Ë
-                    nowAdd="05";//ÊÖ»ú
+                case "7"://ï¿½Ö»ï¿½ï¿½Í»ï¿½ï¿½ï¿½
+                    nowAdd="05";//ï¿½Ö»ï¿½
                     break;
                 default:
-                    nowAdd ="06";//ÆäËû
+                    nowAdd ="06";//ï¿½ï¿½ï¿½ï¿½
                     break;
             }
             map.put(nowAdd,nowAdd);

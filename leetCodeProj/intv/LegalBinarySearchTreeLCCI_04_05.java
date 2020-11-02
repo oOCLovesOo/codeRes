@@ -1,6 +1,6 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
-import leetCodeProj.util.TreeNode;
+import codeRes.leetCodeProj.util.TreeNode;
 
 public class LegalBinarySearchTreeLCCI_04_05 {
 	Boolean isFind = false;

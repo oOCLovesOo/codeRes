@@ -1,4 +1,4 @@
-package leetCodeProj.normal;
+package codeRes.leetCodeProj.normal;
 
 public class ZigZagConversion_6 {
     public String convert(String s, int numRows) {

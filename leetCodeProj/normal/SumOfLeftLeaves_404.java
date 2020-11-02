@@ -1,6 +1,6 @@
-package leetCodeProj.normal;
+package codeRes.leetCodeProj.normal;
 
-import leetCodeProj.util.TreeNode;
+import codeRes.leetCodeProj.util.TreeNode;
 
 public class SumOfLeftLeaves_404 {
 	public int sumOfLeftLeaves(TreeNode root) {

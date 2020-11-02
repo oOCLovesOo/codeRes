@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class RecursiveMulitplyLCCI_08_05 {
 	public int multiply(int A,int B) {

@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class ThreeStepsProblemLCCI_08_01 {
     public int waysToStep(int n) {

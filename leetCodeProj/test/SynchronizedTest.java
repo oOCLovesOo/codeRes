@@ -1,4 +1,4 @@
-package leetCodeProj.test;
+package codeRes.leetCodeProj.test;
 
 public class SynchronizedTest implements Runnable {
     //共享资源

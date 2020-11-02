@@ -1,9 +1,9 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import leetCodeProj.util.ListNode;
+import codeRes.leetCodeProj.util.ListNode;
 
 public class KthNodeFromEndOfListLCCI_02_02 {
     public int kthToLast(ListNode head, int k) {

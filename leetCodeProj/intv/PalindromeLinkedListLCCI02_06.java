@@ -1,9 +1,9 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import leetCodeProj.util.ListNode;
+import codeRes.leetCodeProj.util.ListNode;
 
 public class PalindromeLinkedListLCCI02_06 {
     public boolean isPalindrome(ListNode head) {

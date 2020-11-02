@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class ClosedNumberLCCI_05_04 {
    public int[] findClosedNumbers(int num) {

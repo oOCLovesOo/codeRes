@@ -1,6 +1,6 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
-import leetCodeProj.util.ListNode;
+import codeRes.leetCodeProj.util.ListNode;
 
 public class SumListsLCCI_02_05 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

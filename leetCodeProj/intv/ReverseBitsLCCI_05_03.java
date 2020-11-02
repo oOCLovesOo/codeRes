@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class ReverseBitsLCCI_05_03 {
     public int reverseBits(int num) {

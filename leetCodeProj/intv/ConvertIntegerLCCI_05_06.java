@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class ConvertIntegerLCCI_05_06 {
     public int convertInteger(int A, int B) {

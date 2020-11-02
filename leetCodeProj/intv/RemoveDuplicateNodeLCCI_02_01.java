@@ -1,9 +1,9 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import leetCodeProj.util.ListNode;
+import codeRes.leetCodeProj.util.ListNode;
 
 public class RemoveDuplicateNodeLCCI_02_01 {
 	public ListNode removeDuplicateNodes(ListNode head) {

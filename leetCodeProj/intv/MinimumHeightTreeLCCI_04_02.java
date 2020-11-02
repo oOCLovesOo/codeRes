@@ -1,6 +1,6 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
-import leetCodeProj.util.TreeNode;
+import codeRes.leetCodeProj.util.TreeNode;
 
 public class MinimumHeightTreeLCCI_04_02 {
     public TreeNode sortedArrayToBST(int[] nums) {

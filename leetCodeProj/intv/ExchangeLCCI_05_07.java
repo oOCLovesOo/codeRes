@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 /**
  * 力扣:Exchange LCCI 05.07

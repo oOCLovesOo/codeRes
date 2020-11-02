@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class StringRotationLCCI_01_09 {
     public boolean isFlipedString(String s1, String s2) {

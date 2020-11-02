@@ -1,4 +1,4 @@
-package leetCodeProj.test;
+package codeRes.leetCodeProj.test;
 
 public class SynchronizedTest3 implements Runnable {
     static SynchronizedTest3 instance=new SynchronizedTest3();

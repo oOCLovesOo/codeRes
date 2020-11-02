@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class CompressStringLCCI_01_06 {
     public String compressString(String S) {

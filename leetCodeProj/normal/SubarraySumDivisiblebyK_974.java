@@ -1,4 +1,4 @@
-package leetCodeProj.normal;
+package codeRes.leetCodeProj.normal;
 
 public class SubarraySumDivisiblebyK_974 {
 		public static int subarrayDivByK(int[] A,int K){

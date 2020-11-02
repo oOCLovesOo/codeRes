@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class BianryNumberToStringLCCI_05_02 {
     public String printBin(double num) {

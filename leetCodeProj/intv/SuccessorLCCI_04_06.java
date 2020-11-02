@@ -1,8 +1,8 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 import java.util.Stack;
 
-import leetCodeProj.util.TreeNode;
+import codeRes.leetCodeProj.util.TreeNode;
 
 public class SuccessorLCCI_04_06 {
 	Stack<TreeNode> nodeStack = new Stack<TreeNode>();

@@ -1,4 +1,4 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
 public class ThreeInOneLCCI_03_01 {
 	TripleInOne tio = null;

@@ -1,10 +1,8 @@
-package leetCodeProj.intv;
+package codeRes.leetCodeProj.intv;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 
-import leetCodeProj.util.ListNode;
+import codeRes.leetCodeProj.util.ListNode;
 
 public class LinkedListCycleLCCI_02_08 {
     public ListNode detectCycle(ListNode head) {
