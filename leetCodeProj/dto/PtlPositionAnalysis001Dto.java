@@ -1,4 +1,4 @@
-package leetCodeProj.dto;
+package codeRes.leetCodeProj.dto;
 
 import java.math.BigDecimal;
 
